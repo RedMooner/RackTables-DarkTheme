@@ -2,7 +2,7 @@
 
 # RackTables dark theme chrome extension
 
-![preview.png](ext "preview.png")
+![preview.png](preview.png "preview.png")
 
 ## racktables preview
 ![Rack](rack.png "rack.png")
@@ -13,7 +13,7 @@
 Download the archive with the extension , then extract the files to a separate folder
 
 Press this button
-![p](1 "1.png")
+![p](1.png "1.png")
 
 Select folder with unpacked extension
 
