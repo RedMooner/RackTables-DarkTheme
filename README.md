@@ -1,5 +1,5 @@
 # RackTables-DarkTheme
-#[Download now](https://github.com/RedMooner/RackTables-DarkTheme/raw/main/rack-tables-blacktheme-extension.7z "Download zip")
+# [Download now](https://github.com/RedMooner/RackTables-DarkTheme/raw/main/rack-tables-blacktheme-extension.7z "Download zip")
 # RackTables dark theme chrome extension
 
 ![preview.png](preview.png "preview.png")
