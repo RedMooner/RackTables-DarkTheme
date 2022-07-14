@@ -5,7 +5,7 @@
 ![preview.png](ext "preview.png")
 
 ## racktables preview
-![Rack](rack "rack.png")
+![Rack](rack.png "rack.png")
 
 ## Instalation
 
